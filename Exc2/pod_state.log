@@ -1,0 +1,6 @@
+NAME                              READY   STATUS    RESTARTS   AGE
+scale-test-app-69898fbc67-426r2   1/1     Running   0          11m
+scale-test-app-69898fbc67-cfzcn   1/1     Running   0          9m4s
+scale-test-app-69898fbc67-d6mms   1/1     Running   0          10m
+scale-test-app-69898fbc67-s26ds   1/1     Running   0          108m
+scale-test-app-69898fbc67-z47xs   1/1     Running   0          10m
